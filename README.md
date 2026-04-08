@@ -1,7 +1,8 @@
 # Hi, I'm Andy 👋
 
-Senior IT Support & Systems Engineer. Sydney, Australia.  
-20+ years across enterprise, retail, and infrastructure.  
+Senior Systems Engineer. Sydney, Australia.
+Human-AI Infrastructure & Reliability.
+20+ Years Mission-Critical Operations across enterprise, retail, and infrastructure.  
 Half-century. Still curious. Still poking balloons. 🎈
 
 ---
